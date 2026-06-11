@@ -1,0 +1,8 @@
+{
+  "name": "Remix House Cleaning Tracker",
+  "description": "A weekly house cleaning checklist tracker for roommates with shareable WhatsApp status reports and a persistent database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
